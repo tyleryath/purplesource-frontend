@@ -1,0 +1,55 @@
+.app {
+}
+
+.navbar {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.header {
+  margin: 0;
+}
+
+.body {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  color: white;
+  background-image: linear-gradient(#B24592, #F15F79);
+}
+
+.categorySelectorContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  align-items: center;
+}
+
+.categoryTitleContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin-bottom: 10vmin;
+  margin-top: 10vmin;
+  font-weight: 400;
+  font-size: 8vmin;
+}
+
+.newsCardsContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.content {
+  margin: 0;
+}
