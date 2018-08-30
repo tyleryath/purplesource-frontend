@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './css/App.css';
 import CardPair from './Components/CardPair.js'
+import CategoryButton from './Components/CategoryButton.js';
 
 class App extends Component {
   render() {
@@ -12,7 +13,9 @@ class App extends Component {
             <h1 className="header">navbar</h1>
           </header>
           <div className="categorySelectorContainer">
-            <p>CATEGORIES</p>
+            <CategoryButton />
+            <CategoryButton />
+            <CategoryButton />
           </div>
           <div className="categoryTitleContainer">
             <p>PRESIDENT TRUMP</p>

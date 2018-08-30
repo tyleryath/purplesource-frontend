@@ -1,0 +1,19 @@
+.categoryButton {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-weight: 400;
+  border: 2px solid white;
+  border-radius: 100px;
+  margin: 1vmin;
+}
+
+.buttonText {
+  font-size: 2vmin;
+  color: white;
+  margin-left: 2vmin;
+  margin-right: 2vmin;
+  margin-top: 0.5px;
+  margin-bottom: 0.5px;
+}
