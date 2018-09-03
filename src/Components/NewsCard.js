@@ -1,14 +1,5 @@
 import React, { Component } from 'react';
-import { connect } from 'react-redux';
-import {
-  updateTitle,
-  updateDate,
-  updateAuthor,
-  updateImageURL,
-  updateDescription
-} from '../Actions/UpdateNewsCard';
 import '../css/NewsCard.css';
-
 
 class NewsCard extends Component {
   render() {
@@ -27,7 +18,7 @@ class NewsCard extends Component {
         </div>
         <div className="imageAndDescriptionContainer">
           <div className="imageContainer">
-            <img src={this.props.imageURL} className="cardImage">
+            <img src={this.props.imageURL} className="cardImage" alt="">
             </img>
           </div>
           <div className="descriptionContainer">
@@ -39,20 +30,4 @@ class NewsCard extends Component {
   }
 }
 
-const mapStateToProps = state => {
-  return {
-    title: state.newsCardReducer.title,
-    date: state.newsCardReducer.date,
-    author: state.newsCardReducer.author,
-    imageURL: state.newsCardReducer.imageURL,
-    description: state.newsCardReducer.description
-  };
-}
-
-export default connect(mapStateToProps, {
-  updateTitle,
-  updateDate,
-  updateAuthor,
-  updateImageURL,
-  updateDescription
-})(NewsCard);
+export default NewsCard;

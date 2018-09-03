@@ -6,9 +6,20 @@ class CardPair extends Component {
   render() {
     return (
       <div className="pairContainer">
-        <NewsCard />
-        <div className="dot" />
-        <NewsCard />
+        <NewsCard
+          title={ this.props.liberalTitle }
+          date={ this.props.liberalDate }
+          author={ this.props.liberalAuthor }
+          imageURL={ this.props.liberalImageURL }
+          description={ this.props.liberalDescription }
+        />
+        <NewsCard
+          title={ this.props.conservativeTitle }
+          date={ this.props.conservativeDate }
+          author={ this.props.conservativeAuthor }
+          imageURL={ this.props.conservativeImageURL }
+          description={ this.props.conservativeDescription }
+        />
       </div>
     );
   }

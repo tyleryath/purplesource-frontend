@@ -1,0 +1,258 @@
+{
+  "gun control": [
+    {
+      "score": 0.5358490566037736,
+      "liberal": {
+        "source": {
+          "id": "the-new-york-times",
+          "name": "The New York Times"
+        },
+        "title": "What Today’s Gun Control Activists Can Learn From Old Battles",
+        "description": "In the 1980s, the attempted assassination of President Ronald Reagan and the shooting of his press secretary, Jim Brady, led to a call for gun control. Decades later, students who survived the Parkland, Fla., shooting have reenergized the debate.",
+        "url": "https://www.nytimes.com/video/us/100000005870442/retro-gun-control-activists.html",
+        "urlToImage": "https://static01.nyt.com/images/2018/04/26/autossell/RR290_THUMB_MASTER_GUNS_Cameron_Kasky_on_Car_P0041_GETTY_922442610_HiRes/RR290_THUMB_MASTER_GUNS_Cameron_Kasky_on_Car_P0041_GETTY_922442610_HiRes-videoSixteenByNine1050.jpg",
+        "publishedAt": "2018-04-29T21:45:04Z"
+      },
+      "conservative": {
+        "source": {
+          "id": "national-review",
+          "name": "National Review"
+        },
+        "title": "Talking Past Each Other on Gun Control",
+        "description": "For all the coverage and discussion sparked by the Parkland shooting, the two sides of the debate have retreated to their respective corners.",
+        "url": "https://www.nationalreview.com/2018/04/gun-control-debate-polarized-after-parkland-shooting/",
+        "urlToImage": "https://i2.wp.com/www.nationalreview.com/wp-content/uploads/2018/03/gun-control-signs-fort-lauderdale.jpg?fit=1200%2C700&ssl=1",
+        "publishedAt": "2018-04-26T10:30:24Z"
+      }
+    },
+    {
+      "score": 0.5207547169811321,
+      "liberal": {
+        "source": {
+          "id": "the-new-york-times",
+          "name": "The New York Times"
+        },
+        "title": "Trump Stuns Lawmakers With Seeming Embrace of Gun Control Measures",
+        "description": "In a televised meeting in the Cabinet Room, the president appeared to stun giddy Democrats and stone-faced Republicans by calling for comprehensive gun control.",
+        "url": "https://www.nytimes.com/2018/02/28/us/politics/trump-gun-control.html",
+        "urlToImage": "https://static01.nyt.com/images/2018/03/01/us/politics/01dc-trump/01dc-trump-facebookJumbo-v2.jpg",
+        "publishedAt": "2018-02-28T21:38:19Z"
+      },
+      "conservative": {
+        "source": {
+          "id": "the-washington-times",
+          "name": "The Washington Times"
+        },
+        "title": "David Hogg Demands $1M Donation From PUBLIX...",
+        "description": "David Hogg is trying to shake down Publix. The public face of the gun-control movement demanded $1 million Thursday from the Florida-based grocery chain in a tweet, just one day after calling for a \"die-in\" protest at its stores.",
+        "url": "https://www.washingtontimes.com/news/2018/may/24/david-hogg-targets-publix-gun-control-push/",
+        "urlToImage": "https://twt-thumbs.washtimes.com/media/image/2018/05/24/AP_18083635375798_s2048x1365.jpg?157fd7a2b2da4a762ebf407a263d15da8e5779ba",
+        "publishedAt": "2018-05-24T23:34:37Z"
+      }
+    }
+  ],
+  "trump": [
+    {
+      "score": 0.5132743362831859,
+      "liberal": {
+        "source": {
+          "id": "the-new-york-times",
+          "name": "The New York Times"
+        },
+        "title": "Charles Koch Takes on Trump. Trump Takes on Charles Koch.",
+        "description": "Americans for Prosperity said the group would not be supporting the Republican candidate for Senate in North Dakota, Representative Kevin Cramer, who is trying to unseat a Democratic incumbent in one of the year’s most competitive races.",
+        "url": "https://www.nytimes.com/2018/07/31/us/politics/trump-koch-brothers.html",
+        "urlToImage": "https://static01.nyt.com/images/2018/08/01/us/politics/01kochs1/01kochs1-facebookJumbo.jpg",
+        "publishedAt": "2018-07-31T22:49:49Z"
+      },
+      "conservative": {
+        "source": {
+          "id": "breitbart-news",
+          "name": "Breitbart News"
+        },
+        "title": "Trump: 'Why Would Smart Voters Want to Put Democrats in Congress,' People Much Better Off Now - Breitbart News",
+        "description": "Breitbart News Trump: 'Why Would Smart Voters Want to Put Democrats in Congress,' People Much Better Off Now Breitbart News President Donald Trump asked Americans on Sunday why they would vote for Democrats in 2018 when they continue to benefit from strong bo…",
+        "url": "http://www.breitbart.com/big-government/2017/12/31/trump-why-smart-voters-democrats-congress/",
+        "urlToImage": "http://media.breitbart.com/media/2017/12/trump-1.png",
+        "publishedAt": "2017-12-31T23:33:31Z"
+      }
+    },
+    {
+      "score": 0.5043478260869565,
+      "liberal": {
+        "source": {
+          "id": "the-new-york-times",
+          "name": "The New York Times"
+        },
+        "title": "Charles Koch Takes on Trump. Trump Takes on Charles Koch.",
+        "description": "Americans for Prosperity said the group would not be supporting the Republican candidate for Senate in North Dakota, Representative Kevin Cramer, who is trying to unseat a Democratic incumbent in one of the year’s most competitive races.",
+        "url": "https://www.nytimes.com/2018/07/31/us/politics/trump-koch-brothers.html",
+        "urlToImage": "https://static01.nyt.com/images/2018/08/01/us/politics/01kochs1/01kochs1-facebookJumbo.jpg",
+        "publishedAt": "2018-07-31T22:49:49Z"
+      },
+      "conservative": {
+        "source": {
+          "id": "the-washington-times",
+          "name": "The Washington Times"
+        },
+        "title": "IG investigating FBI abuses of FISA in Trump campaign surveillance - Washington Times",
+        "description": "Washington Times IG investigating FBI abuses of FISA in Trump campaign surveillance Washington Times Inspector General Michael E. Horowitz did not identify Carter Page nor Christopher Steele, the former British spy who was paid by Democrats to assemble the sa…",
+        "url": "https://www.washingtontimes.com/news/2018/mar/28/ig-will-probe-fbi-abuses-fisa-after-trump-surveill/",
+        "urlToImage": "https://twt-media.washtimes.com/media/image/2018/03/28/AP_17207571417362.jpg",
+        "publishedAt": "2018-03-28T21:29:58Z"
+      }
+    },
+    {
+      "score": 0.5448717948717948,
+      "liberal": {
+        "source": {
+          "id": "the-new-york-times",
+          "name": "The New York Times"
+        },
+        "title": "Trump’s Lawyers Want Him to Refuse an Interview in Russia Inquiry",
+        "description": "John Dowd, the longtime Washington lawyer hired last summer to represent President Trump in the Russia investigation, wants Mr. Trump to rebuff an interview request from the special counsel.",
+        "url": "https://www.nytimes.com/2018/02/05/us/politics/trump-lawyers-special-counsel-interview.html",
+        "urlToImage": "https://static01.nyt.com/images/2018/02/06/us/politics/06dc-mueller1/06dc-mueller1-facebookJumbo.jpg",
+        "publishedAt": "2018-02-06T00:59:37Z"
+      },
+      "conservative": {
+        "source": {
+          "id": "the-washington-times",
+          "name": "The Washington Times"
+        },
+        "title": "What will Mueller find out about Trump, Russia and the dossier? The world may never know - Washington Times",
+        "description": "Washington Times What will Mueller find out about Trump, Russia and the dossier? The world may never know Washington Times Special counsel Robert Mueller is mandated to submit a confidential report to the attorney general at the conclusion of his investigatio…",
+        "url": "https://www.washingtontimes.com/news/2018/apr/1/robert-muellers-donald-trump-findings-may-stay-con/",
+        "urlToImage": "https://twt-media.washtimes.com/media/image/2018/03/15/Mueller_61427.jpg-fc0c9.jpg",
+        "publishedAt": "2018-04-01T20:37:30Z"
+      }
+    },
+    {
+      "score": 0.5031847133757962,
+      "liberal": {
+        "source": {
+          "id": "the-new-york-times",
+          "name": "The New York Times"
+        },
+        "title": "Trump’s Lawyers Want Him to Refuse an Interview in Russia Inquiry",
+        "description": "John Dowd, the longtime Washington lawyer hired last summer to represent President Trump in the Russia investigation, wants Mr. Trump to rebuff an interview request from the special counsel.",
+        "url": "https://www.nytimes.com/2018/02/05/us/politics/trump-lawyers-special-counsel-interview.html",
+        "urlToImage": "https://static01.nyt.com/images/2018/02/06/us/politics/06dc-mueller1/06dc-mueller1-facebookJumbo.jpg",
+        "publishedAt": "2018-02-06T00:59:37Z"
+      },
+      "conservative": {
+        "source": {
+          "id": "the-washington-times",
+          "name": "The Washington Times"
+        },
+        "title": "Trump orders top-to-bottom review of welfare programs - Washington Times",
+        "description": "Washington Times Trump orders top-to-bottom review of welfare programs Washington Times President Donald Trump waves as he leaves South Lawn following a ceremony to honor the 2017 NCAA football national champion, the Alabama Crimson Tide at the White House in…",
+        "url": "https://www.washingtontimes.com/news/2018/apr/10/donald-trump-orders-top-bottom-review-welfare-prog/",
+        "urlToImage": "https://twt-media.washtimes.com/media/image/2018/04/10/Trump_Alabama_20344.jpg-1c54a.jpg",
+        "publishedAt": "2018-04-10T21:46:41Z"
+      }
+    },
+    {
+      "score": 0.5031847133757962,
+      "liberal": {
+        "source": {
+          "id": "the-new-york-times",
+          "name": "The New York Times"
+        },
+        "title": "Trump’s Lawyers Want Him to Refuse an Interview in Russia Inquiry",
+        "description": "John Dowd, the longtime Washington lawyer hired last summer to represent President Trump in the Russia investigation, wants Mr. Trump to rebuff an interview request from the special counsel.",
+        "url": "https://www.nytimes.com/2018/02/05/us/politics/trump-lawyers-special-counsel-interview.html",
+        "urlToImage": "https://static01.nyt.com/images/2018/02/06/us/politics/06dc-mueller1/06dc-mueller1-facebookJumbo.jpg",
+        "publishedAt": "2018-02-06T00:59:37Z"
+      },
+      "conservative": {
+        "source": {
+          "id": "the-washington-times",
+          "name": "The Washington Times"
+        },
+        "title": "Kellyanne Conway is No. 1 White House leaker, new book claims - Washington Times",
+        "description": "Washington Times Kellyanne Conway is No. 1 White House leaker, new book claims Washington Times Counselor to President Donald Trump Kellyanne Conway speaks at the Newseum in Washington, Wednesday, April 12, 2017, during “The President and the Press: The First…",
+        "url": "https://www.washingtontimes.com/news/2018/apr/1/kellyanne-conway-no-1-white-house-leaker-ronald-ke/",
+        "urlToImage": "https://twt-media.washtimes.com/media/image/2018/04/01/AP_17102576626396.jpg",
+        "publishedAt": "2018-04-01T18:25:38Z"
+      }
+    },
+    {
+      "score": 0.5303514376996805,
+      "liberal": {
+        "source": {
+          "id": "the-new-york-times",
+          "name": "The New York Times"
+        },
+        "title": "Rupert Murdoch and President Trump: A Friendship of Convenience",
+        "description": "The relationship between Rupert Murdoch and Donald J. Trump, a presidential candidate at the time, reached a turning point when they met at Trump International Golf Links Scotland on June 25, 2016.",
+        "url": "https://www.nytimes.com/2017/12/23/business/media/murdoch-trump-relationship.html",
+        "urlToImage": "https://static01.nyt.com/images/2017/12/24/business/21MURDOCH1/21MURDOCH1-facebookJumbo.jpg",
+        "publishedAt": "2017-12-23T16:06:43Z"
+      },
+      "conservative": {
+        "source": {
+          "id": "the-washington-times",
+          "name": "The Washington Times"
+        },
+        "title": "Trump: Russian collusion is a 'witch hunt' - Washington Times",
+        "description": "Washington Times Trump: Russian collusion is a 'witch hunt' Washington Times President Donald Trump speaks during a meeting with the members of the National Governors Association in the State Dining Room of the White House, Monday, Feb. 26, 2018, in Washingto…",
+        "url": "https://www.washingtontimes.com/news/2018/feb/27/donald-trump-russian-collusion-is-a-witch-hunt/",
+        "urlToImage": "https://twt-media.washtimes.com/media/image/2018/02/26/trump_96365.jpg",
+        "publishedAt": "2018-02-27T13:09:12Z"
+      }
+    }
+  ],
+  "russia": [
+    {
+      "score": 0.5269461077844312,
+      "liberal": {
+        "source": {
+          "id": "the-new-york-times",
+          "name": "The New York Times"
+        },
+        "title": "Antidoping Regulator Denies Russia’s Appeal for Reinstatement",
+        "description": "Fireworks at the opening ceremony of the 2014 Winter Games in Sochi, Russia. The International Olympic Committee will soon decide what penalties Russia will face for conducting an elaborate doping program at the Sochi Games.",
+        "url": "https://www.nytimes.com/2017/11/15/sports/olympics/wada-russia-doping.html",
+        "urlToImage": "https://static01.nyt.com/images/2017/11/16/sports/16russiapic1/merlin_78667276_4ba6c9e5-f361-4fe6-aa5a-704630986834-facebookJumbo.jpg",
+        "publishedAt": "2017-11-16T04:10:50Z"
+      },
+      "conservative": {
+        "source": {
+          "id": "the-washington-times",
+          "name": "The Washington Times"
+        },
+        "title": "What will Mueller find out about Trump, Russia and the dossier? The world may never know - Washington Times",
+        "description": "Washington Times What will Mueller find out about Trump, Russia and the dossier? The world may never know Washington Times Special counsel Robert Mueller is mandated to submit a confidential report to the attorney general at the conclusion of his investigatio…",
+        "url": "https://www.washingtontimes.com/news/2018/apr/1/robert-muellers-donald-trump-findings-may-stay-con/",
+        "urlToImage": "https://twt-media.washtimes.com/media/image/2018/03/15/Mueller_61427.jpg-fc0c9.jpg",
+        "publishedAt": "2018-04-01T20:37:30Z"
+      }
+    },
+    {
+      "score": 0.5019011406844106,
+      "liberal": {
+        "source": {
+          "id": "the-new-york-times",
+          "name": "The New York Times"
+        },
+        "title": "Op-Ed Columnist: McGahn in June, Other Republicans Soon",
+        "description": "President Trump ordered that Robert Mueller, special counsel overseeing the Russia investigation, be fired in June.",
+        "url": "https://www.nytimes.com/2018/01/26/opinion/mcgahn-trump-mueller-russia-investigation.html",
+        "urlToImage": "https://static01.nyt.com/images/2018/01/26/opinion/26leonhardt-newsletter-mueller/26leonhardt-newsletter-mueller-facebookJumbo.jpg",
+        "publishedAt": "2018-01-26T13:12:42Z"
+      },
+      "conservative": {
+        "source": {
+          "id": "the-washington-times",
+          "name": "The Washington Times"
+        },
+        "title": "What will Mueller find out about Trump, Russia and the dossier? The world may never know - Washington Times",
+        "description": "Washington Times What will Mueller find out about Trump, Russia and the dossier? The world may never know Washington Times Special counsel Robert Mueller is mandated to submit a confidential report to the attorney general at the conclusion of his investigatio…",
+        "url": "https://www.washingtontimes.com/news/2018/apr/1/robert-muellers-donald-trump-findings-may-stay-con/",
+        "urlToImage": "https://twt-media.washtimes.com/media/image/2018/03/15/Mueller_61427.jpg-fc0c9.jpg",
+        "publishedAt": "2018-04-01T20:37:30Z"
+      }
+    }
+  ]
+}

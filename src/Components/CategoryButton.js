@@ -5,7 +5,7 @@ class CategoryButton extends Component {
   render() {
     return (
       <div className="categoryButton">
-        <p className="buttonText">PRESIDENT TRUMP</p>
+        <p className="buttonText">HEALTH CARE</p>
       </div>
     );
   }
