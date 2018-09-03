@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './css/App.css';
 import CardPair from './Components/CardPair.js'
 import CategoryButton from './Components/CategoryButton.js';
+import { updateTitle } from './Actions/UpdateNewsCard';
 
 class App extends Component {
   render() {

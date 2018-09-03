@@ -12,7 +12,11 @@
   margin-right: 7vmin;
   margin-top: 5vmin;
   margin-bottom: 5vmin;
+  max-width: 60vmin;
+}
 
+.linkStyle:hover {
+  text-decoration: none;
 }
 
 .titleContainer {
@@ -21,6 +25,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  margin-bottom: 2vmin;
 }
 
 .dateAndAuthorContainer {
@@ -30,6 +35,7 @@
   align-items: flex-end;
   width: 100%;
   border-bottom: 1px solid #4A4A4A;
+  margin-bottom: 2vmin;
 }
 
 .imageAndDescriptionContainer {
@@ -52,18 +58,21 @@
 
 .imageContainer {
   width: 50%;
-  padding-top: 1vmin;
-  padding-right: 1vmin;
-  padding-bottom: 1vmin;
+  margin-right: 1vmin;
 }
 
 .descriptionContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   width: 50%;
   padding-left: 1vmin;
   padding-right: 1vmin;
   padding-bottom: 1vmin;
-  font-size: 2.7vmin;
+  font-size: 2vmin;
   font-weight: 400;
+  text-align: left;
 }
 
 .cardImage {
