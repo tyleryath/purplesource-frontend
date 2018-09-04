@@ -15,24 +15,9 @@ class App extends Component {
     return (
       <div className="app">
         <div className="body">
-          <Navbar inverse collapseOnSelect>
-            <Navbar.Header>
-              <Navbar.Brand>
-                <a href="#brand">purplesource</a>
-              </Navbar.Brand>
-              <Navbar.Toggle />
-            </Navbar.Header>
-            <Navbar.Collapse>
-              <Nav pullRight>
-                <NavItem eventKey={1} href="#">
-                  about
-                </NavItem>
-                <NavItem eventKey={2} href="#">
-                  contact
-                </NavItem>
-              </Nav>
-            </Navbar.Collapse>
-            </Navbar>
+          <div className="headerContainer">
+            <p>purplesource</p>
+          </div>
           <div className="categorySelectorContainer">
             <CategoryBar />
           </div>
