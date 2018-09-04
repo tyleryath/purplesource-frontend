@@ -12,7 +12,7 @@
   margin-right: 7vmin;
   margin-top: 5vmin;
   margin-bottom: 5vmin;
-  max-width: 60vmin;
+  max-width: 80vmin;
 }
 
 .linkStyle:hover {
@@ -70,7 +70,7 @@
   padding-left: 1vmin;
   padding-right: 1vmin;
   padding-bottom: 1vmin;
-  font-size: 2vmin;
+  font-size: 1.8vmin;
   font-weight: 400;
   text-align: left;
 }

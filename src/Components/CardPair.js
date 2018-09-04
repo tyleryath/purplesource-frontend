@@ -3,6 +3,7 @@ import '../css/CardPair.css';
 import NewsCard from './NewsCard.js'
 
 class CardPair extends Component {
+
   render() {
     return (
       <div className="pairContainer">
@@ -13,6 +14,11 @@ class CardPair extends Component {
           imageURL={ this.props.liberalImageURL }
           description={ this.props.liberalDescription }
         />
+        <div>
+          <p className="percentageText">
+            { (parseFloat(this.props.score) * 100).toFixed(2) + '%'}
+          </p>
+        </div>
         <NewsCard
           title={ this.props.conservativeTitle }
           date={ this.props.conservativeDate }

@@ -4,9 +4,12 @@ import '../css/CategoryButton.css';
 class CategoryButton extends Component {
   render() {
     return (
-      <div className="categoryButton">
-        <p className="buttonText">HEALTH CARE</p>
-      </div>
+      <button
+        className="categoryButton"
+        onClick={() => console.log(this.props.category)}
+      >
+        <p className="buttonText">{ this.props.category }</p>
+      </button>
     );
   }
 }

@@ -1,10 +1,6 @@
-.pairContainer {
+.categoryBar {
   display: flex;
   flex-direction: row;
   justify-content: center;
   align-items: center;
-}
-
-.percentageText {
-  font-size: 3vmin;
 }
