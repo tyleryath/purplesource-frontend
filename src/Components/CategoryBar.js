@@ -3,6 +3,13 @@ import CategoryButton from './CategoryButton';
 import '../css/CategoryBar.css';
 
 class CategoryBar extends Component {
+
+  setCategory = (category) => {
+    this.setState({
+      active: category
+    })
+  }
+
   render() {
     return (
       <div className="categoryBar">

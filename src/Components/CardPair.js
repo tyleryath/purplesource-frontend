@@ -9,20 +9,20 @@ class CardPair extends Component {
       <div className="pairContainer">
         <NewsCard
           title={ this.props.liberalTitle }
-          date={ this.props.liberalDate }
-          author={ this.props.liberalAuthor }
+          date={this.props.liberalSource}
+          author={''}
           imageURL={ this.props.liberalImageURL }
           description={ this.props.liberalDescription }
         />
         <div>
           <p className="percentageText">
-            { (parseFloat(this.props.score) * 100).toFixed(2) + '%'}
+            { ((parseFloat(this.props.score) * 100) + 30).toFixed(2) + '%' }
           </p>
         </div>
         <NewsCard
           title={ this.props.conservativeTitle }
-          date={ this.props.conservativeDate }
-          author={ this.props.conservativeAuthor }
+          date={this.props.conservativeSource}
+          author={''}
           imageURL={ this.props.conservativeImageURL }
           description={ this.props.conservativeDescription }
         />

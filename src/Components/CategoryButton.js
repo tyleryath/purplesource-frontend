@@ -1,12 +1,15 @@
 import React, { Component } from 'react';
 import '../css/CategoryButton.css';
+import { connect } from 'react-redux';
+import { setActiveCategory } from '../actions/SetActiveCategory';
 
 class CategoryButton extends Component {
+
   render() {
     return (
       <button
-        className="categoryButton"
-        onClick={() => console.log(this.props.category)}
+        className={this.props.active === this.props.category ? 'active' : 'categoryButton'}
+        onClick={() => this.props.setActiveCategory(this.props.category)}
       >
         <p className="buttonText">{ this.props.category }</p>
       </button>
@@ -14,4 +17,12 @@ class CategoryButton extends Component {
   }
 }
 
-export default CategoryButton;
+const mapStateToProps = state => {
+  return {
+    active: state.categoryBarReducer.active
+  }
+}
+
+export default connect(mapStateToProps, {
+  setActiveCategory
+})(CategoryButton);

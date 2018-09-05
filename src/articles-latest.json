@@ -1,0 +1,355 @@
+{
+  "abortion": [
+    {
+      "score": 0.30927835051546393,
+      "liberal": {
+        "source": {
+          "id": "the-new-york-times",
+          "name": "The New York Times"
+        },
+        "author": "ANDREW R. LEWIS",
+        "title": "Op-Ed Contributor: How the Pro-Life Movement Has Promoted Liberal Values",
+        "description": "Anti-abortion activists and abortion rights supporters demonstrated at the March for Life in Washington last year.",
+        "url": "https://www.nytimes.com/2018/01/19/opinion/abortion-roe-wade-liberals.html",
+        "urlToImage": "https://static01.nyt.com/images/2018/01/19/opinion/19lewisweb/19lewisweb-facebookJumbo.jpg",
+        "publishedAt": "2018-01-19T10:45:18Z"
+      },
+      "conservative": {
+        "source": {
+          "id": "the-washington-times",
+          "name": "The Washington Times"
+        },
+        "author": null,
+        "title": "JB Pritzker wins Democratic primary for Illinois governor - Washington Times",
+        "description": "Washington Times JB Pritzker wins Democratic primary for Illinois governor Washington Times Illinois Democratic gubernatorial candidate J.B. Pritzker greets voters at the CTA Roosevelt Orange and Green Line station in Chicago on Election Day, Tuesday, March 2…",
+        "url": "https://www.washingtontimes.com/news/2018/mar/20/jb-pritzker-wins-democratic-primary-illinois-gover/",
+        "urlToImage": "https://twt-media.washtimes.com/media/image/2018/03/20/Illinois_Primary_Governor_14840.jpg-128a0.jpg",
+        "publishedAt": "2018-03-21T01:26:18Z"
+      }
+    },
+    {
+      "score": 0.31746031746031744,
+      "liberal": {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "Mississippi passes strictest abortion law",
+        "description": "The bill bans most abortions after 15 weeks, with no exceptions for rape or incest.",
+        "url": "http://www.bbc.co.uk/news/world-us-canada-43465234",
+        "urlToImage": "https://ichef-1.bbci.co.uk/news/1024/branded_news/7A23/production/_97176213_breaking_news_bigger.png",
+        "publishedAt": "2018-03-19T21:12:51Z"
+      },
+      "conservative": {
+        "source": {
+          "id": "national-review",
+          "name": "National Review"
+        },
+        "author": "Michael J. New",
+        "title": "No, Trump-Administration Policies Won’t Increase the Abortion Rate",
+        "description": "Last month, two analysts from the think tank Third Way published an opinion piece in U.S. News and World Report claiming that new Trump-administration policies would cause a surge in the abortion rate. They also credited Obama-administration policies with red…",
+        "url": "http://www.nationalreview.com/corner/453726/trump-administration-wont-increase-abortion-rate",
+        "urlToImage": "http://c1.nrostatic.com/sites/default/files/planned-parenthood-rally-capitol-hill-home.jpg",
+        "publishedAt": "2017-11-14T20:20:42Z"
+      }
+    },
+    {
+      "score": 0.43478260869565216,
+      "liberal": {
+        "source": {
+          "id": "the-new-york-times",
+          "name": "The New York Times"
+        },
+        "author": "ADAM LIPTAK",
+        "title": "Supreme Court Rejects Bid to Discipline A.C.L.U.",
+        "description": "Activists demonstrated in Washington in support of a young, undocumented immigrant seeking an abortion in Texas in October.",
+        "url": "https://www.nytimes.com/2018/06/04/us/politics/supreme-court-rejects-bid-to-discipline-aclu.html",
+        "urlToImage": "https://static01.nyt.com/images/2018/06/05/us/politics/05dc-court/05dc-court-facebookJumbo.jpg",
+        "publishedAt": "2018-06-04T13:59:06Z"
+      },
+      "conservative": {
+        "source": {
+          "id": "national-review",
+          "name": "National Review"
+        },
+        "author": "James Gottry",
+        "title": "Supreme Court to Decide if FACT Act Hacks Away at First Amendment",
+        "description": "Should pro-life pregnancy-care centers be compelled to provide free advertising for abortion providers like Planned Parenthood? On Monday, the U.S. Supreme Court agreed to consider this very question, which the case National Institute of Family and Life Advoc…",
+        "url": "http://www.nationalreview.com/bench-memos/453818/california-pro-life-pregnancy-care-centers-law-abortion-advertising",
+        "urlToImage": "http://c5.nrostatic.com/sites/default/files/uploaded/SCOTUS%20abortion.jpg",
+        "publishedAt": "2017-11-16T22:18:20Z"
+      }
+    },
+    {
+      "score": 0.30952380952380953,
+      "liberal": {
+        "source": {
+          "id": "the-new-york-times",
+          "name": "The New York Times"
+        },
+        "author": "ADAM LIPTAK",
+        "title": "Supreme Court Warily Eyes California Law Involving Abortion and Free Speech",
+        "description": "The justices heard arguments in a First Amendment challenge to a law requiring “crisis pregnancy centers” to provide information on abortion.",
+        "url": "https://www.nytimes.com/2018/03/20/us/politics/supreme-court-abortion-free-speech-crisis-pregnancy-centers.html",
+        "urlToImage": "https://static01.nyt.com/images/2018/03/21/us/politics/21dc-scotus/21dc-scotus-facebookJumbo.jpg",
+        "publishedAt": "2018-03-20T16:47:58Z"
+      },
+      "conservative": {
+        "source": {
+          "id": "national-review",
+          "name": "National Review"
+        },
+        "author": "James Gottry",
+        "title": "Supreme Court to Decide if FACT Act Hacks Away at First Amendment",
+        "description": "Should pro-life pregnancy-care centers be compelled to provide free advertising for abortion providers like Planned Parenthood? On Monday, the U.S. Supreme Court agreed to consider this very question, which the case National Institute of Family and Life Advoc…",
+        "url": "http://www.nationalreview.com/bench-memos/453818/california-pro-life-pregnancy-care-centers-law-abortion-advertising",
+        "urlToImage": "http://c5.nrostatic.com/sites/default/files/uploaded/SCOTUS%20abortion.jpg",
+        "publishedAt": "2017-11-16T22:18:20Z"
+      }
+    },
+    {
+      "score": 0.36065573770491804,
+      "liberal": {
+        "source": {
+          "id": "the-new-york-times",
+          "name": "The New York Times"
+        },
+        "author": "JEREMY W. PETERS",
+        "title": "Trump Tells Anti-Abortion Marchers ‘We Are With You All the Way’ and Shows It",
+        "description": "For someone who once described himself as “very pro-choice,” Mr. Trump’s transformation into a champion of the anti-abortion cause is a remarkable political evolution.",
+        "url": "https://www.nytimes.com/2018/01/19/us/politics/trump-anti-abortion-marchers.html",
+        "urlToImage": "https://static01.nyt.com/images/2018/01/20/us/politics/20dc-March-1/merlin_132527975_a6ff8726-5337-4e14-9829-ce362bd5ce53-facebookJumbo.jpg",
+        "publishedAt": "2018-01-20T01:27:51Z"
+      },
+      "conservative": {
+        "source": {
+          "id": "national-review",
+          "name": "National Review"
+        },
+        "author": "Mairead McArdle",
+        "title": "Irish Protesters March for Unborn Ahead of May Abortion Referendum",
+        "description": "Marchers emphasized that abortion discriminates against unborn babies with disabilities.",
+        "url": "https://www.nationalreview.com/2018/03/ireland-abortion-referendum-pro-life-march-unborn/",
+        "urlToImage": "https://i2.wp.com/www.nationalreview.com/wp-content/uploads/2018/03/ireland-abortion-pro-life.jpg?fit=1200%2C700&ssl=1",
+        "publishedAt": "2018-03-12T18:29:00Z"
+      }
+    },
+    {
+      "score": 0.35135135135135137,
+      "liberal": {
+        "source": {
+          "id": "the-new-york-times",
+          "name": "The New York Times"
+        },
+        "author": "GINIA BELLAFANTE",
+        "title": "Big City: God Made Andrew Cuomo a Feminist. What Kind?",
+        "description": "On Tuesday, a rally in support of abortion rights drew activists and politicians, including Cynthia Nixon, who is challenging Gov. Andrew M. Cuomo in the Democratic primary.",
+        "url": "https://www.nytimes.com/2018/07/13/nyregion/cuomo-nixon-abortion-law-new-york-state.html",
+        "urlToImage": "https://static01.nyt.com/images/2018/07/15/nyregion/15BIG/13BIG-facebookJumbo.jpg",
+        "publishedAt": "2018-07-13T14:30:43Z"
+      },
+      "conservative": {
+        "source": {
+          "id": "national-review",
+          "name": "National Review"
+        },
+        "author": null,
+        "title": "New Trump Administration Rule to Cut Planned Parenthood Funding",
+        "description": "The Trump administration will announce a new rule that will prohibit abortion providers, as well as abortion referrers, from accessing Title X family-planning funds.",
+        "url": "https://www.nationalreview.com/videos/new-trump-administration-rule-to-cut-planned-parenthood-funding/",
+        "urlToImage": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2018/05/pro-life-protester-walkout.jpg?fit=1200%2C700&ssl=1",
+        "publishedAt": "2018-05-18T22:06:10Z"
+      }
+    },
+    {
+      "score": 0.3116883116883117,
+      "liberal": {
+        "source": {
+          "id": "the-new-york-times",
+          "name": "The New York Times"
+        },
+        "author": "SHERYL GAY STOLBERG",
+        "title": "Democrats Zero In on Kavanaugh’s Defense of Presidential Power",
+        "description": "Democrats thought the weakness of a Supreme Court nominee would be health care and abortion. Then came Brett M. Kavanaugh’s writings on shielding presidents from investigation.",
+        "url": "https://www.nytimes.com/2018/07/11/us/politics/democrats-brett-kavanaugh-supreme-court.html",
+        "urlToImage": "https://static01.nyt.com/images/2018/07/12/us/politics/12dc-memo1/12dc-memo1-facebookJumbo.jpg",
+        "publishedAt": "2018-07-11T23:59:05Z"
+      },
+      "conservative": {
+        "source": {
+          "id": "national-review",
+          "name": "National Review"
+        },
+        "author": "Alexandra DeSanctis",
+        "title": "A Puff-Piece Memoir from the President of Planned Parenthood",
+        "description": "Cecile Richards sanitizes the brutality of abortion with deceptive talking points and self-aggrandizing anecdotes.",
+        "url": "https://www.nationalreview.com/2018/04/cecile-richards-planned-parenthood-memoir-deceptive/",
+        "urlToImage": "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2018/04/cecile-richards-planned-parenthood.jpg?fit=1200%2C700&ssl=1",
+        "publishedAt": "2018-04-17T10:30:40Z"
+      }
+    },
+    {
+      "score": 0.3050847457627119,
+      "liberal": {
+        "source": {
+          "id": "the-new-york-times",
+          "name": "The New York Times"
+        },
+        "author": "NICHOLAS FANDOS and YAMICHE ALCINDOR",
+        "title": "House Republican Trent Franks Plans to Resign",
+        "description": "Mr. Franks, who made his name with strident social conservatism and adamant opposition to abortion in all forms, would be the third lawmaker to step down from office this week.",
+        "url": "https://www.nytimes.com/2017/12/07/us/politics/trent-franks-house-member-resigns.html",
+        "urlToImage": "https://static01.nyt.com/images/2017/12/08/us/08franks_xp/08franks_xp-facebookJumbo.jpg",
+        "publishedAt": "2017-12-07T23:19:18Z"
+      },
+      "conservative": {
+        "source": {
+          "id": "national-review",
+          "name": "National Review"
+        },
+        "author": "Mairead McArdle",
+        "title": "Planned Parenthood Debuts Abortion ‘Manifesto’",
+        "description": "The manifesto is part of a campaign to influence voters ahead of November's midterm elections.",
+        "url": "https://www.nationalreview.com/news/planned-parenthood-debuts-abortion-manifesto/",
+        "urlToImage": "https://i2.wp.com/www.nationalreview.com/wp-content/uploads/2017/09/planned-parenthood-lasker-foundation-award-winner-1.jpg?fit=1200%2C700&ssl=1",
+        "publishedAt": "2018-08-03T22:15:56Z"
+      }
+    },
+    {
+      "score": 0.3283582089552239,
+      "liberal": {
+        "source": {
+          "id": "the-new-york-times",
+          "name": "The New York Times"
+        },
+        "author": "NICHOLAS FANDOS and YAMICHE ALCINDOR",
+        "title": "House Republican Trent Franks Plans to Resign",
+        "description": "Mr. Franks, who made his name with strident social conservatism and adamant opposition to abortion in all forms, would be the third lawmaker to step down from office this week.",
+        "url": "https://www.nytimes.com/2017/12/07/us/politics/trent-franks-house-member-resigns.html",
+        "urlToImage": "https://static01.nyt.com/images/2017/12/08/us/08franks_xp/08franks_xp-facebookJumbo.jpg",
+        "publishedAt": "2017-12-07T23:19:18Z"
+      },
+      "conservative": {
+        "source": {
+          "id": "national-review",
+          "name": "National Review"
+        },
+        "author": "Alexandra DeSanctis",
+        "title": "A Puff-Piece Memoir from the President of Planned Parenthood",
+        "description": "Cecile Richards sanitizes the brutality of abortion with deceptive talking points and self-aggrandizing anecdotes.",
+        "url": "https://www.nationalreview.com/2018/04/cecile-richards-planned-parenthood-memoir-deceptive/",
+        "urlToImage": "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2018/04/cecile-richards-planned-parenthood.jpg?fit=1200%2C700&ssl=1",
+        "publishedAt": "2018-04-17T10:30:40Z"
+      }
+    },
+    {
+      "score": 0.45714285714285713,
+      "liberal": {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "Irish abortion referendum: PM Varadkar to campaign for change",
+        "description": "A referendum will take place this summer to repeal a constitutional ban on abortion.",
+        "url": "http://www.bbc.co.uk/news/world-europe-42843632",
+        "urlToImage": "https://ichef-1.bbci.co.uk/news/1024/branded_news/14B5B/production/_99772848_varadkar.jpg",
+        "publishedAt": "2018-01-27T08:43:32Z"
+      },
+      "conservative": {
+        "source": {
+          "id": "national-review",
+          "name": "National Review"
+        },
+        "author": "Mairead McArdle",
+        "title": "Irish Protesters March for Unborn Ahead of May Abortion Referendum",
+        "description": "Marchers emphasized that abortion discriminates against unborn babies with disabilities.",
+        "url": "https://www.nationalreview.com/2018/03/ireland-abortion-referendum-pro-life-march-unborn/",
+        "urlToImage": "https://i2.wp.com/www.nationalreview.com/wp-content/uploads/2018/03/ireland-abortion-pro-life.jpg?fit=1200%2C700&ssl=1",
+        "publishedAt": "2018-03-12T18:29:00Z"
+      }
+    },
+    {
+      "score": 0.3076923076923077,
+      "liberal": {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "Irish abortion referendum: PM Varadkar to campaign for change",
+        "description": "A referendum will take place this summer to repeal a constitutional ban on abortion.",
+        "url": "http://www.bbc.co.uk/news/world-europe-42843632",
+        "urlToImage": "https://ichef-1.bbci.co.uk/news/1024/branded_news/14B5B/production/_99772848_varadkar.jpg",
+        "publishedAt": "2018-01-27T08:43:32Z"
+      },
+      "conservative": {
+        "source": {
+          "id": "national-review",
+          "name": "National Review"
+        },
+        "author": null,
+        "title": "New Trump Administration Rule to Cut Planned Parenthood Funding",
+        "description": "The Trump administration will announce a new rule that will prohibit abortion providers, as well as abortion referrers, from accessing Title X family-planning funds.",
+        "url": "https://www.nationalreview.com/videos/new-trump-administration-rule-to-cut-planned-parenthood-funding/",
+        "urlToImage": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2018/05/pro-life-protester-walkout.jpg?fit=1200%2C700&ssl=1",
+        "publishedAt": "2018-05-18T22:06:10Z"
+      }
+    },
+    {
+      "score": 0.3018867924528302,
+      "liberal": {
+        "source": {
+          "id": "the-new-york-times",
+          "name": "The New York Times"
+        },
+        "author": "EMILY BAZELON",
+        "title": "We’re About to Find Out How Bad It Will Get Without Justice Kennedy",
+        "description": "He provided a crucial fifth vote to the court’s conservative wing, but he sometimes voted against it, especially on abortion.",
+        "url": "https://www.nytimes.com/2018/06/27/opinion/kennedy-retire-supreme-court-trump.html",
+        "urlToImage": "https://static01.nyt.com/images/2018/06/28/opinion/28Bazelon/28Bazelon-facebookJumbo.jpg",
+        "publishedAt": "2018-06-27T22:18:37Z"
+      },
+      "conservative": {
+        "source": {
+          "id": "national-review",
+          "name": "National Review"
+        },
+        "author": "Mairead McArdle",
+        "title": "Planned Parenthood Debuts Abortion ‘Manifesto’",
+        "description": "The manifesto is part of a campaign to influence voters ahead of November's midterm elections.",
+        "url": "https://www.nationalreview.com/news/planned-parenthood-debuts-abortion-manifesto/",
+        "urlToImage": "https://i2.wp.com/www.nationalreview.com/wp-content/uploads/2017/09/planned-parenthood-lasker-foundation-award-winner-1.jpg?fit=1200%2C700&ssl=1",
+        "publishedAt": "2018-08-03T22:15:56Z"
+      }
+    },
+    {
+      "score": 0.34285714285714286,
+      "liberal": {
+        "source": {
+          "id": "the-new-york-times",
+          "name": "The New York Times"
+        },
+        "author": "EMILY BAZELON",
+        "title": "We’re About to Find Out How Bad It Will Get Without Justice Kennedy",
+        "description": "He provided a crucial fifth vote to the court’s conservative wing, but he sometimes voted against it, especially on abortion.",
+        "url": "https://www.nytimes.com/2018/06/27/opinion/kennedy-retire-supreme-court-trump.html",
+        "urlToImage": "https://static01.nyt.com/images/2018/06/28/opinion/28Bazelon/28Bazelon-facebookJumbo.jpg",
+        "publishedAt": "2018-06-27T22:18:37Z"
+      },
+      "conservative": {
+        "source": {
+          "id": "national-review",
+          "name": "National Review"
+        },
+        "author": null,
+        "title": "New Trump Administration Rule to Cut Planned Parenthood Funding",
+        "description": "The Trump administration will announce a new rule that will prohibit abortion providers, as well as abortion referrers, from accessing Title X family-planning funds.",
+        "url": "https://www.nationalreview.com/videos/new-trump-administration-rule-to-cut-planned-parenthood-funding/",
+        "urlToImage": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2018/05/pro-life-protester-walkout.jpg?fit=1200%2C700&ssl=1",
+        "publishedAt": "2018-05-18T22:06:10Z"
+      }
+    }
+  ]
+}

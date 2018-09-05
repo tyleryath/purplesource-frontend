@@ -2,13 +2,9 @@ import React, { Component } from 'react';
 import './css/App.css';
 import CategoryBar from './Components/CategoryBar';
 import ArticlePairGenerator from './Components/ArticlePairGenerator';
-import {
-  Navbar,
-  Nav,
-  NavItem,
-  NavDropdown,
-  MenuItem
-} from 'react-bootstrap';
+import { connect } from 'react-redux';
+import { setActiveCategory } from './actions/SetActiveCategory';
+
 class App extends Component {
 
   render() {
@@ -22,7 +18,7 @@ class App extends Component {
             <CategoryBar />
           </div>
           <div className="categoryTitleContainer">
-            <p>HEALTH CARE</p>
+            <p>{this.props.active}</p>
           </div>
           <div className="newsCardsContainer">
             <ArticlePairGenerator />
@@ -33,4 +29,12 @@ class App extends Component {
   }
 }
 
-export default App;
+const mapStateToProps = state => {
+  return {
+    active: state.categoryBarReducer.active
+  }
+}
+
+export default connect(mapStateToProps, {
+  setActiveCategory
+})(App);

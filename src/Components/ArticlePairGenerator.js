@@ -1,22 +1,38 @@
 import React, { Component } from 'react';
 import $ from 'jquery';
-import CardPair from './CardPair.js'
+import { connect } from 'react-redux';
+import CardPair from './CardPair.js';
+import { setActiveCategory } from '../actions/SetActiveCategory';
 
 class ArticlePairGenerator extends Component {
 
   componentWillMount() {
+    const categories = {"ABORTION":"abortion",
+                        "PRESIDENT TRUMP":"trump",
+                        "HEALTH CARE":"healthcare",
+                        "GUN CONTROL":"guns",
+                        "IMMIGRATION":"immigration"}
     this.setState({ newsList : [] });
-    this.loadNews("trump")
+    this.loadNews(categories[this.props.active]);
+  }
+
+  componentWillUpdate() {
+    const categories = {"ABORTION":"abortion",
+                        "PRESIDENT TRUMP":"trump",
+                        "HEALTH CARE":"healthcare",
+                        "GUN CONTROL":"guns",
+                        "IMMIGRATION":"immigration"}
+    this.loadNews(categories[this.props.active]);
   }
 
   pushToNewsCards(newsList) {
-    this.setState({ newsList: newsList })
+    this.setState({ newsList: newsList });
   }
 
   loadNews(category) {
     var newsList = [];
-      $.getJSON("https://api.myjson.com/bins/6jfkc", (articles) => {
-        var articlesByCurrentCategory = articles[category]
+      $.getJSON("https://api.myjson.com/bins/yvwg4", (articles) => {
+        var articlesByCurrentCategory = articles[category];
         articlesByCurrentCategory.forEach( (currentArticle) => {
           newsList.push({
             score: currentArticle.score,
@@ -33,8 +49,8 @@ class ArticlePairGenerator extends Component {
             },
             conservative: {
               source: {
-                id: currentArticle.conservative.id,
-                name: currentArticle.conservative.name
+                id: currentArticle.conservative.source.id,
+                name: currentArticle.conservative.source.name
               },
               title: currentArticle.conservative.title,
               description: currentArticle.conservative.description,
@@ -60,12 +76,14 @@ class ArticlePairGenerator extends Component {
             liberalDate={article.liberal.date}
             liberalAuthor={article.liberal.author}
             liberalImageURL={article.liberal.imageURL}
+            liberalSource={article.liberal.source.name}
             liberalDescription={article.liberal.description}
             conservativeTitle={article.conservative.title}
             conservativeDate={article.conservative.date}
             conservativeAuthor={article.conservative.author}
             conservativeImageURL={article.conservative.imageURL}
             conservativeDescription={article.conservative.description}
+            conservativeSource={article.conservative.source.name}
           />
         )}
       </div>
@@ -73,4 +91,12 @@ class ArticlePairGenerator extends Component {
   }
 }
 
-export default ArticlePairGenerator;
+const mapStateToProps = state => {
+  return {
+    active: state.categoryBarReducer.active
+  }
+}
+
+export default connect(mapStateToProps, {
+  setActiveCategory
+})(ArticlePairGenerator);

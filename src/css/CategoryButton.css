@@ -9,11 +9,26 @@
   margin: 1vmin;
   background-color: transparent;
   color: white;
+  outline: 0;
 }
 
 .categoryButton:hover {
   background-color: white;
   color: #B24592;
+}
+
+.active {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-weight: 400;
+  border: 2px solid white;
+  border-radius: 100px;
+  margin: 1vmin;
+  background-color: white;
+  color: #B24592;
+  outline: 0;
 }
 
 .buttonText {
