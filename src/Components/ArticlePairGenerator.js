@@ -45,7 +45,7 @@ class ArticlePairGenerator extends Component {
               description: currentArticle.liberal.description,
               articleURL: currentArticle.liberal.url,
               imageURL: currentArticle.liberal.urlToImage,
-              date: currentArticle.liberal.publishedAt
+              date: currentArticle.liberal.date
             },
             conservative: {
               source: {
@@ -56,7 +56,7 @@ class ArticlePairGenerator extends Component {
               description: currentArticle.conservative.description,
               articleURL: currentArticle.conservative.url,
               imageURL: currentArticle.conservative.urlToImage,
-              date: currentArticle.conservative.publishedAt
+              date: currentArticle.conservative.date
             }
           })
         })
@@ -77,6 +77,7 @@ class ArticlePairGenerator extends Component {
             liberalAuthor={article.liberal.author}
             liberalImageURL={article.liberal.imageURL}
             liberalSource={article.liberal.source.name}
+            liberalArticleURL={article.liberal.articleURL}
             liberalDescription={article.liberal.description}
             conservativeTitle={article.conservative.title}
             conservativeDate={article.conservative.date}
@@ -84,6 +85,7 @@ class ArticlePairGenerator extends Component {
             conservativeImageURL={article.conservative.imageURL}
             conservativeDescription={article.conservative.description}
             conservativeSource={article.conservative.source.name}
+            conservativeArticleURL={article.conservative.articleURL}
           />
         )}
       </div>

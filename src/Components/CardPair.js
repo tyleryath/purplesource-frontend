@@ -10,9 +10,10 @@ class CardPair extends Component {
         <NewsCard
           title={ this.props.liberalTitle }
           date={this.props.liberalSource}
-          author={''}
+          author={this.props.liberalDate}
           imageURL={ this.props.liberalImageURL }
           description={ this.props.liberalDescription }
+          articleURL={ this.props.liberalArticleURL}
         />
         <div>
           <p className="percentageText">
@@ -22,9 +23,10 @@ class CardPair extends Component {
         <NewsCard
           title={ this.props.conservativeTitle }
           date={this.props.conservativeSource}
-          author={''}
+          author={this.props.conservativeDate}
           imageURL={ this.props.conservativeImageURL }
           description={ this.props.conservativeDescription }
+          articleURL={ this.props.conservativeArticleURL }
         />
       </div>
     );
